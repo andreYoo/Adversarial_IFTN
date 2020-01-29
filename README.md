@@ -53,7 +53,7 @@ python main.py
 
 ## Curves of the cost functions on AITF.
 
-<p align="center">  <img src='readme/loss_d.svg' align="center" height="200px"> <img src='readme/loss_gn.svg' align="center" height="200px"> <img src='readme/loss_gp.svg' align="center" height="200px">  </p>
+<p align="center">  <img src='readme/loss_d.svg' align="center" height="150px"> <img src='readme/loss_gn.svg' align="center" height="150px"> <img src='readme/loss_gp.svg' align="center" height="150px">  </p>
 
 
 ## Given and transformed samples

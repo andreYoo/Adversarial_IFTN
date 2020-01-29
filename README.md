@@ -62,7 +62,7 @@ Given image samples.
 ![](results/img_iter_40000.png)
 
 Given frequency samples.
-![](results/freq_iter_40000.png)
+![](results/freqs_iter_40000.png)
 
 Transformed image samples.
 ![](results/img_transformed_iter_40000.png)

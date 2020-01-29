@@ -52,9 +52,9 @@ python main.py
 
 
 ## Curves of the cost functions on AITF.
-![](logs/Loss G.svg)
-![](logs/Loss DI.svg)
-![](logs/Loss DF.svg)
+![](logs/Loss D.svg)
+![](logs/Loss GN.svg)
+![](logs/Loss GP.svg)
 
 
 

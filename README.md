@@ -1,4 +1,4 @@
-# Adversarial Image-to-Frequency Transform Network for Road Defect Detection
+# Adversarial Image-to-Frequency Transform Network
 Toy example for 'Adversarially Learnt Image to Frequency Transform Network' (Implemented with Py36 and Pytorch)
 
 File configuration

@@ -58,17 +58,12 @@ python main.py
 
 
 ## Given and transformed samples (40000 Iterations)
-Given image samples.
-![](results/img_iter_40000.png)
+Given image and frequency samples.
+<p align="center">  <img src='results/img_iter_40000.png' align="center" height="200px"> <img src='results/freqs_iter_40000.png' align="center" height="200px">  </p>
 
-Given frequency samples.
-![](results/freqs_iter_40000.png)
 
-Transformed image samples.
-![](results/img_transformed_iter_40000.png)
-
-Transformed frequency samples.
-![](results/freq_transformed_iter_40000.png)
+Transformed image and frequency samples.
+<p align="center">  <img src='results/img_transformed_iter_40000.png' align="center" height="200px"> <img src='results/freq_transformed_iter_40000.png' align="center" height="200px">  </p>
 
 
 bibtex as follows:

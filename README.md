@@ -1,4 +1,4 @@
-# Adversarial Image-to-Frequency Transform Network
+# Adversarial Image-to-Frequency Transform
 Toy example for 'Adversarially Learnt Image to Frequency Transform Network (AIFT)' on the paper (
 Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequency Transform) (Implemented with Py36 and Pytorch)
 ![](readme/test.png)

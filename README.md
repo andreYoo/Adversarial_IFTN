@@ -50,6 +50,24 @@ In the past few years, the performance of road defect detection has been remarka
 python main.py
 ~~~
 
+
+## Curves of the cost functions on AITF.
+![](logs/test.png)
+![](logs/test.png)
+![](logs/test.png)
+
+
+
+## Given and transformed samples
+given samples - Image.
+
+given samples - Frequency.
+
+Transformed samples - Image.
+
+Transformed samples - Frequency.
+
+
 Submitted to IV2020
 
 

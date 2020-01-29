@@ -45,7 +45,8 @@ In the past few years, the performance of road defect detection has been remarka
 └── training_result_vis<br>
 
 
-
+## How to train
+python main.py
 
 Submitted to IV2020
 

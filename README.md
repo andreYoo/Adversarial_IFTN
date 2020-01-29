@@ -58,17 +58,17 @@ python main.py
 
 
 ## Given and transformed samples (40000 Iterations)
-given samples - Image.
-![](results/test.png)
+Given image samples.
+![](results/img_iter_40000.png)
 
-given samples - Frequency.
-![](results/test.png)
+Given frequency samples.
+![](results/freq_iter_40000.png)
 
-Transformed samples - Image.
-![](results/test.png)
+Transformed image samples.
+![](results/img_transformed_iter_40000.png)
 
-Transformed samples - Frequency.
-![](results/test.png)
+Transformed frequency samples.
+![](results/freq_transformed_iter_40000.png)
 
 
 bibtex as follows:

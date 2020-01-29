@@ -54,16 +54,16 @@ python main.py
 ## Curves of the cost functions on AITF. 
 (Loss for Discriminator, generator for positive phase, generator for negative phase)
 
-<p align="center">  <img src='readme/loss_d.svg' align="center" height="150px"> <img src='readme/loss_gn.svg' align="center" height="150px"> <img src='readme/loss_gp.svg' align="center" height="150px">  </p>
+<p align="center">  <img src='readme/loss_d.svg' align="center" height="180px"> <img src='readme/loss_gn.svg' align="center" height="180px"> <img src='readme/loss_gp.svg' align="center" height="180px">  </p>
 
 
 ## Given and transformed samples (40000 Iterations)
 Given image and frequency samples.
-<p align="center">  <img src='results/img_iter_40000.png' align="center" height="200px"> <img src='results/freqs_iter_40000.png' align="center" height="200px">  </p>
+<p align="center">  <img src='results/img_iter_40000.png' align="center" height="300px"> <img src='results/freqs_iter_40000.png' align="center" height="300px">  </p>
 
 
 Transformed image and frequency samples.
-<p align="center">  <img src='results/img_transformed_iter_40000.png' align="center" height="200px"> <img src='results/freq_transformed_iter_40000.png' align="center" height="200px">  </p>
+<p align="center">  <img src='results/img_transformed_iter_40000.png' align="center" height="300px"> <img src='results/freq_transformed_iter_40000.png' align="center" height="300px">  </p>
 
 
 bibtex as follows:

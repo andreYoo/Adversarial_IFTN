@@ -54,7 +54,7 @@ python main.py
 ## Curves of the cost functions on AITF. 
 (Loss for Discriminator, generator for positive phase, generator for negative phase)
 
-<p align="center">  <img src='readme/loss_d.svg' align="center" height="180px"> <img src='readme/loss_gn.svg' align="center" height="180px"> <img src='readme/loss_gp.svg' align="center" height="180px">  </p>
+<p align="center">  <img src='readme/loss_d.svg' align="center" height="160px"> <img src='readme/loss_gn.svg' align="center" height="160px"> <img src='readme/loss_gp.svg' align="center" height="160px">  </p>
 
 
 ## Given and transformed samples (40000 Iterations)

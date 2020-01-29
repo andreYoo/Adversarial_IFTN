@@ -51,14 +51,13 @@ python main.py
 ~~~
 
 
-## Curves of the cost functions on AITF.
-![](readme/loss_d.svg)
-![](readme/loss_gn.svg)
-![](readme/loss_gp.svg)
+## Curves of the cost functions on AITF. 
+(Loss for Discriminator, generator for positive phase, generator for negative phase)
+
+<p align="center">  <img src='readme/loss_d.svg' align="center" height="150px"> <img src='readme/loss_gn.svg' align="center" height="150px"> <img src='readme/loss_gp.svg' align="center" height="150px">  </p>
 
 
-
-## Given and transformed samples
+## Given and transformed samples (40000 Iterations)
 given samples - Image.
 
 given samples - Frequency.

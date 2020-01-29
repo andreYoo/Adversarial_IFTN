@@ -1,7 +1,7 @@
 # Adversarial Image-to-Frequency Transform Network
 Toy example for 'Adversarially Learnt Image to Frequency Transform Network (AIFT)' on the paper (
 Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequency Transform) (Implemented with Py36 and Pytorch)
-![](logs/test.png)
+![](readme/test.png)
 
 
 * The paper is submitted to IV2020, and it is under the review.
@@ -52,9 +52,9 @@ python main.py
 
 
 ## Curves of the cost functions on AITF.
-![](logs/Loss D.svg)
-![](logs/Loss GN.svg)
-![](logs/Loss GP.svg)
+![](readme/loss_d.svg)
+![](readme/loss_gn.svg)
+![](readme/loss_gp.svg)
 
 
 

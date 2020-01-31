@@ -9,6 +9,19 @@ Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequenc
 Contact: [jm.andrew.yu@gmail.com] Any questions or discussions are welcomed! 
 
 
+If you use this source code, please cite the paper as follows. 
+~~~
+@misc{yu2020unsupervised,
+    title={Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequency Transform},
+    author={Jongmin Yu and Duyong Kim and Younkwon Lee and Moongu Jeon},
+    year={2020},
+    eprint={2001.11175},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+~~~
+
+
 ## Abstract.
 In the past few years, the performance of road defect detection has been remarkably improved thanks to advancements on various studies on computer vision and deep learning. Although a large-scale and well-annotated datasets enhance the performance of detecting road pavement defects to some extent, it is still challengeable to derive a model which can perform reliably for various road conditions in practice, because it is intractable to construct a dataset considering diverse road conditions and defect patterns. To end this, we propose an unsupervised approach to detecting road defects, using Adversarial Image-to-Frequency Transform (AIFT). AIFT adopts the unsupervised manner and adversarial learning in deriving the defect detection model, so AIFT does not need annotations for road pavement defects. We evaluate the efficiency of AIFT using GAPs384 dataset, Cracktree200 dataset, CRACK500 dataset, and CFD dataset. The experimental results demonstrate that the proposed approach detects various road detects, and it outperforms existing state-of-the-art approaches.
 
@@ -65,15 +78,3 @@ Given image and frequency samples.
 Transformed image and frequency samples.
 <p align="center">  <img src='results/img_transformed_iter_40000.png' align="center" height="300px"> <img src='results/freq_transformed_iter_40000.png' align="center" height="300px">  </p>
 
-
-If you use this source code, please cite the paper as follows. 
-~~~
-@misc{yu2020unsupervised,
-    title={Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequency Transform},
-    author={Jongmin Yu and Duyong Kim and Younkwon Lee and Moongu Jeon},
-    year={2020},
-    eprint={2001.11175},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-~~~

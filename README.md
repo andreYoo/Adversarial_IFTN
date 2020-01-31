@@ -66,5 +66,14 @@ Transformed image and frequency samples.
 <p align="center">  <img src='results/img_transformed_iter_40000.png' align="center" height="300px"> <img src='results/freq_transformed_iter_40000.png' align="center" height="300px">  </p>
 
 
-bibtex as follows:
-
+If you use this source code, please cite the paper as follows. 
+~~~
+@misc{yu2020unsupervised,
+    title={Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequency Transform},
+    author={Jongmin Yu and Duyong Kim and Younkwon Lee and Moongu Jeon},
+    year={2020},
+    eprint={2001.11175},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+~~~

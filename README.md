@@ -5,6 +5,7 @@ Unsupervised Pixel-level Road Defect Detection via Adversarial Image-to-Frequenc
 
 
 * The paper is submitted to IV2020, and it is under the review.
+* In this implementation,  we implement the generation model as two separate models which are the image-to-frequency generator and the frequency-to-image generator for implementation efficiency.
 * This source code is a toy example for AITF, and it does not include the evaluation code for the experiments on the paper.
 Contact: [jm.andrew.yu@gmail.com] Any questions or discussions are welcomed! 
 
